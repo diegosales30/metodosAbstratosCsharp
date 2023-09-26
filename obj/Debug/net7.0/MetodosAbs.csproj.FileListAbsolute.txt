@@ -1,0 +1,14 @@
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\MetodosAbs\bin\Debug\net7.0\MetodosAbs.exe
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\MetodosAbs\bin\Debug\net7.0\MetodosAbs.deps.json
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\MetodosAbs\bin\Debug\net7.0\MetodosAbs.runtimeconfig.json
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\MetodosAbs\bin\Debug\net7.0\MetodosAbs.dll
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\MetodosAbs\bin\Debug\net7.0\MetodosAbs.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\MetodosAbs\obj\Debug\net7.0\MetodosAbs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\MetodosAbs\obj\Debug\net7.0\MetodosAbs.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\MetodosAbs\obj\Debug\net7.0\MetodosAbs.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\MetodosAbs\obj\Debug\net7.0\MetodosAbs.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\MetodosAbs\obj\Debug\net7.0\MetodosAbs.dll
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\MetodosAbs\obj\Debug\net7.0\refint\MetodosAbs.dll
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\MetodosAbs\obj\Debug\net7.0\MetodosAbs.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\MetodosAbs\obj\Debug\net7.0\MetodosAbs.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\MetodosAbs\obj\Debug\net7.0\ref\MetodosAbs.dll
